@@ -31,3 +31,6 @@ npm run start
 ```
 
 ### Here's the deployment link : [BOOK MY SHOW CLONE](https://book-my-show-clone-brown.vercel.app/)
+
+
+![book-my-show-clone](https://user-images.githubusercontent.com/76815843/206909711-20534b07-ba8f-4a4b-879c-07e412b43a02.png)
