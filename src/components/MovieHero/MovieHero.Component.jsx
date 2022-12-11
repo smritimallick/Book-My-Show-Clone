@@ -38,7 +38,7 @@ const MovieHero = () => {
             </button>
             <button
               onClick={buyMovie}
-              className="bg-red-600 w-full py-3 text-white font-semibold rounded-lg"
+              className="bg-red-500 w-full py-3 text-white font-semibold rounded-lg"
             >
               Buy ₹599
             </button>
